@@ -1,0 +1,47 @@
+<style>
+        body{
+            background-color:floralwhite;
+            background-image: url("backg.webp");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            text-transform: initial;
+            font-size: 25px;
+        }
+        h1{
+            color: blue;
+            padding: 40px;
+            text-align: center;
+            font-size: 50px;
+        }
+        .container{
+            margin: 0 auto;
+            margin-left: 20px;
+            margin-right: 20px;
+            width: 80%;
+            alignment:center;
+        }
+        .profile{
+            margin:auto 0;
+            width: 80%;
+            background-image:-o-linear-gradient(2);
+            margin-left: 100px;
+            margin-right: 10px;
+           
+        
+        }
+        body{
+            color:black;
+            font-size:100%;
+         }
+        .order{
+            float: left;
+            width: 550px;
+            list-style: inherit;
+        }
+        .font-size{
+            font-size: 24px;
+        }
+        
+    
+    </style>
